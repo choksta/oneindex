@@ -1,6 +1,6 @@
 <?php return array (
-  'site_name' => 'OneIndex',
-  'password' => 'oneindex',
+  'site_name' => 'choksta收藏馆',
+  'password' => 'lj3313387',
   'style' => 'material',
   'onedrive_root' => '',
   'cache_type' => 'secache',
